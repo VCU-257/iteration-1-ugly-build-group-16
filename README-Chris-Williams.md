@@ -1,4 +1,4 @@
-# Student Name: [Ian Wynn]
+# Student Name: [Chris Williams]
 
 ## 1. My Assigned Work
 *List the specific HTML files, screens, or components you built based on your team's assignments in Table 3.*
